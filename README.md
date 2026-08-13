@@ -4,7 +4,6 @@
 장선호
 
 ## 🛠️ Tech Stack
-## Tech Stack
  
 ### Backend
 ![Java](https://img.shields.io/badge/Java-17-007396?style=for-the-badge&logo=openjdk&logoColor=white)
