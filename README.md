@@ -1,7 +1,6 @@
 # 👋 Backend Developer 🚀
 
-**명지대학교 컴퓨터공학과**<br>
-장선호
+**명지대학교 컴퓨터공학과** 장선호
 
 ## 🛠️ Tech Stack
 
