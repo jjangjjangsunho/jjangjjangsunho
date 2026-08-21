@@ -35,4 +35,4 @@
 * 멋쟁이사자처럼 14기 명지대학교 (백엔드 파트)
 
 ## 📜 Certifications
-<img src="https://img.shields.io/badge/SQLD-007396?style=flat-square&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/ADsP-3776AB?style=flat-square&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/SQLD-007396?style=flat-square&logo=databricks&logoColor=white"/> 
